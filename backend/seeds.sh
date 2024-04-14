@@ -1,3 +1,4 @@
-#!/bin/sh
+#!/bin/bash
+
 
 yarn seeds
